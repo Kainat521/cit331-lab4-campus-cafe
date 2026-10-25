@@ -1,0 +1,8 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="Campus Café logo">
+  <circle cx="60" cy="60" r="52" fill="#7a3e1d"/>
+  <path d="M34 54h43v18a17 17 0 0 1-17 17H51a17 17 0 0 1-17-17V54z" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M77 59h7a10 10 0 0 1 0 20h-8" fill="none" stroke="#ffffff" stroke-width="4"/>
+  <path d="M43 36c-7-7 5-10 0-18M59 36c-7-7 5-10 0-18M74 36c-7-7 5-10 0-18" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M31 96c16 10 42 10 58 0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+</svg>
